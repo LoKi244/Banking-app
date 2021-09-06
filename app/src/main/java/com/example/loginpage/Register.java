@@ -22,8 +22,8 @@ public class Register extends AppCompatActivity {
     Boolean fresult = false;
     detailsdb ob;
     transaction tob;
-    String usermail= "lokesh123global@gmail.com";
-    String password = "sd14bs3207";
+    String usermail= "";
+    String password = "";
     int otp;
 
     GMailSender sender;

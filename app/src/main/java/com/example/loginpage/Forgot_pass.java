@@ -23,8 +23,8 @@ public class Forgot_pass extends AppCompatActivity {
     GMailSender sender;
     int otp;
     String mail;
-    String usermail= "lokesh123global@gmail.com";
-    String password = "sd14bs3207";
+    String usermail= "";
+    String password = "";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
