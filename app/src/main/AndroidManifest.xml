@@ -7,9 +7,9 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@mipmap/bankingapp"
         android:label="Banking App"
-        android:roundIcon="@mipmap/ic_launcher_round"
+        android:roundIcon="@mipmap/bankingapp"
         android:supportsRtl="true"
         android:theme="@style/Theme.Loginpage">
         <activity android:name=".Reset_pass"></activity>
